@@ -45,6 +45,6 @@ Installation
 # Clone the repository:
 git clone https://github.com/your-username/my-ecommerce-app.git
 
-#live URL
+live URL
 https://inventory-order-management-app.onrender.com/
 
